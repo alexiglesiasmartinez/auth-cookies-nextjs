@@ -1,0 +1,22 @@
+{
+  "cssImports": {
+    "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\layout.tsx": [
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\page": [
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\globals.css",
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\dashboard\\page": [
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\globals.css",
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\dashboard\\settings\\page": [
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\app\\globals.css",
+      "D:\\Work\\GLAB\\Audidat\\nextjs-latest-auth\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
